@@ -1,5 +1,5 @@
 <a  href="https://www.connieconnect.com">
-<img  src="https://i.postimg.cc/dtyTnNpH/connie-contact-logo2-420x120.png"  alt="Connie SaaS For Nonprofits"  width="250"  />
+<img  src="https://i.postimg.cc/MGd7M6Cp/connie-logo-white-thin-deja-Vu-Sans.png"  alt="Connie SaaS For Nonprofits"  width="250"  />
 </a>
 
 # Connie Webchat Extension React App
