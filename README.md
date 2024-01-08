@@ -1,10 +1,10 @@
-<a  href="https://www.twilio.com">
-<img  src="./public/convos-title.png"  alt="Twilio"  width="250"  />
+<a  href="https://www.connieconnect.com">
+<img  src="https://i.postimg.cc/dtyTnNpH/connie-contact-logo2-420x120.png"  alt="Connie SaaS For Nonprofits"  width="250"  />
 </a>
 
-# Twilio Webchat React App + Serverless
+# Connie Webchat Extension React App
 
-_Twilio Webchat React App + Serverless_ is an extension of the [_Twilio Webchat React_](https://github.com/twilio/twilio-webchat-react-app) application that demonstrates how you can build a website chat widget using [Twilio Conversations](https://www.twilio.com/docs/conversations) powered with a backend hosted on [Twilio Functions & Assets](https://www.twilio.com/docs/serverless/functions-assets).
+_Connie Webchat Extension React App_ is an extension of the [_Connie RTC_](https://connieconnect.com) application that demonstrates how nonprofits using Connie can easily add a website chat widget using [Twilio Conversations](https://www.twilio.com/docs/conversations) powered with a backend hosted on [Twilio Functions & Assets](https://www.twilio.com/docs/serverless/functions-assets).
 
 The frontend application is identical to the [_Twilio Webchat React_](https://github.com/twilio/twilio-webchat-react-app), with the main difference being which endpoint gets called from the UI (serverless functions; located in the `serverless` folder).
 
