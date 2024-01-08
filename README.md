@@ -4,7 +4,7 @@
 
 # Connie Webchat Extension React App
 
-_Connie Webchat Extension React App_ is an extension of the [_Connie RTC_](https://connieconnect.com) application that demonstrates how nonprofits using Connie can easily add a website chat widget using [Twilio Conversations](https://www.twilio.com/docs/conversations) powered with a backend hosted on [Twilio Functions & Assets](https://www.twilio.com/docs/serverless/functions-assets).
+_Connie Webchat Extension React App_ is an extension of the [_Connie RTC_](https://connieconnect.com) application that demonstrates how nonprofits using Connie can easily add a website chat widget powered by [Twilio Conversations](https://www.twilio.com/docs/conversations). The backend infastructure is deployed and hosted on [connie.host Functions & Assets](https://www.connie.host).
 
 The frontend application is identical to the [_Twilio Webchat React_](https://github.com/twilio/twilio-webchat-react-app), with the main difference being which endpoint gets called from the UI (serverless functions; located in the `serverless` folder).
 
