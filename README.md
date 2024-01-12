@@ -76,7 +76,7 @@ While developing locally, you will need to run the backend and frontend servers 
 
 ### Start the Local Backend Server
 
-The following command will run the serverless functions locally:
+The following command will run the serverless functions locally. Please run with Node v16:
 
 ```shell
 yarn server
@@ -86,7 +86,7 @@ Your functions will be served at `http://localhost:3003/`.
 
 ### Start the Local React App Server
 
-The following will run the React App locally:
+The following will run the React App locally. Please run with Node v16:
 
 ```shell
 yarn start
