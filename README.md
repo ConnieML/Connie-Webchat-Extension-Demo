@@ -137,12 +137,12 @@ This first endpoints, hit by the application when the pre-engagement form is sub
 
 1. Contacts Twilio Webchats endpoint to create a conversation and get a `conversationSid` and a participant `identity`
 2. Creates a token with the correct grants for the provided participant identity
-3. (optional) Programmatically send a message in behalf of the user with their query and then a welcome message
+3. (optional) Programmatically send a message on behalf of the user with their query and then a welcome message
 
 #### **A note about the pre-engagement form data**
 
--   By default, this endpoint takes the `friendlyName` field of the form and uses it to set the customer User's name via the webchat orchestration endpoint.
--   In addition to that, all the fields (including `friendlyName`) will be saved as the conversation `attributes`, under the `pre_engagement_data` key. You can find additional information on the Conversation object [here](https://www.twilio.com/docs/conversations/api/conversation-resource#conversation-properties).
+- By default, this endpoint takes the `friendlyName` field of the form and uses it to set the customer User's name via the webchat orchestration endpoint.
+- In addition to that, all the fields (including `friendlyName`) will be saved as the conversation `attributes`, under the `pre_engagement_data` key. You can find additional information on the Conversation object [here](https://www.twilio.com/docs/conversations/api/conversation-resource#conversation-properties).
 
 ### RefreshToken
 
