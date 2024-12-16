@@ -40,7 +40,7 @@ The frontend application is identical to the [_Twilio Webchat React_](https://gi
     yarn
     ```
 
-1. **Install Serverless Dependencies** - navigate to the `/serverless` directory:
+1. **Install Serverless Dependencies** - navigate to the `/serverless` directory. Note: You may need to use nvm to run NPM v16.
 
     ```
     cd serverless && yarn
@@ -48,7 +48,7 @@ The frontend application is identical to the [_Twilio Webchat React_](https://gi
 
 ### Populate `.env` Files
 
-There are two `.env` to populate; one at the root of the repository and one in the `./serverless` directory. We provide a handy `bootstrap` script to set up the environment variables required for you.
+There are two `.env` to populate; one at the root of the repository and one in the `./serverless` directory. We provide a handy `bootstrap.js` script to set up the environment variables required for you. It's located in /scripts directory.
 
 ```shell
 yarn bootstrap \
